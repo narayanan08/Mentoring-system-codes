@@ -1,2 +1,2 @@
 # Mentoring-system-codes
-This repository saves all the codes that I created for my team project.
+This repository contains all the programs that I created for my team project.
